@@ -1,0 +1,27 @@
+.header {
+  
+  height: 10vh;
+  width: 100%;
+  width: 100%;
+  z-index: 4;
+   .star{
+     width: 100%;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+    .logo {
+      font-family: flegrei, sans-serif;
+
+      font-weight: 400;
+      font-style: normal;
+      font-size: 1.8rem;
+    }
+    .menu {
+      font-family: myriad-pro, sans-serif;
+      font-weight: 700;
+      font-style: normal;
+      font-size: 1rem;
+    
+  }
+}
+}
